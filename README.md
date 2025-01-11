@@ -1,4 +1,4 @@
-# VoiceCloning
+# HydraVoice-VoiceCloning
 
 Sidhaant's Voice Cloning Project
 
