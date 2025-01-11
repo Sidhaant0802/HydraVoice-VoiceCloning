@@ -13,13 +13,15 @@ python -m venv voice_env
 
 then paste this and enter :- voice_env\Scripts\activate
 
-then
+then :-
 
 mkdir voice
 cd voice
 
 pip install -r requirements.txt
 
-python voice.py (and enjoy the program)
+python voice.py 
+
+(and now enjoy the program)
 
 {IF ANY MODULE MISSING JUST PIP INSTALL THEM INDIVIDUALLY}
